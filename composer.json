@@ -1,10 +1,10 @@
 {
 	"name": "in4s/slim-start",
     "type": "project",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": "proprietary",
     "minimum-stability": "dev",
     "require": {
-        "slim/slim": "^3.12"
+        "slim/slim": "3.12"
     }
 }
