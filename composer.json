@@ -1,4 +1,5 @@
 {
+	"name": "in4s/slim-start",
     "require": {
         "slim/slim": "^3.12"
     }
